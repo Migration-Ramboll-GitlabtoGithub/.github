@@ -1,0 +1,13 @@
+{
+    "name": "docker build and push",
+    "description": "docker workflows",
+    "iconName": "docker",
+    "categories": [
+        "docker"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
